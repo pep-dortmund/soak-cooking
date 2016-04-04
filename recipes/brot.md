@@ -19,7 +19,7 @@ Die Mengenangaben sind für zwei Baguettes oder acht Brötchen
 * Viel Mehl auf der Arbeitsfläche verteilen, den Teig darauf geben und nochmals mit Mehl bestreuen.
 * Nun wird der Teig quadratisch ausgerollt.
 * Anschließend werden die Ecken in die Mitte gefaltet und leicht angedrückt, sodass ein neues Quadrat entsteht. Die Ecken werden wieder in die Mitte gelegt. Ebenso werden ein drittes Mal die Ecken reingefaltet.
-* Der Teig wird um 180°C gewendet und auf Mehl gebettet, sowie erneut 10-15 Minuten ruhen gelassen.
+* Der Teig wird um 180° gewendet und auf Mehl gebettet, sowie erneut 10-15 Minuten ruhen gelassen.
 * Nun wird, wie zuvor beschrieben, der Teig erneut gefalten, gewartet, gefalten und gewartet.
 * Abschließend wird der Teig geteilt, sodass je nach belieben Baguettes oder Brötchen geformt werden können.
 * Die Backwaren werden auf einem Blech verteilt und mit etwas Wasser bestrichen.
