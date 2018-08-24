@@ -1,27 +1,29 @@
 # Kaiserschmarrn
 
 ## Zutaten
-* 80 Eier
-* 0,8 kg Zucker
-* 4 kg Mehl
-* 5 L Milch
-* 0,8 kg Rosinen
-* 1 kg Butter
-* 320 g Puderzucker
-* 5 Gläser Preiselbeeren
-* 3 Gläser Apfelmus
+
+Grundrezept für eine Botzi-Pfanne (3 Hauptgerichte, 6-8 Nachtischportionen)
+
+* 5 Eier
+* 50 g Zucker
+* 250 g Mehl
+* 500 ml Vollmilch
+* 50 g Rosinen
+* 20 g Puderzucker
+* 100 g Preiselbeeren
+* 100 g EL Apfelmus
+* 70 g Butter
 
 ## Zubereitung
 
-Für eine Pfanne (Als Hauptmahlzeit 3 gute Portionen, sonst 4-6 Portionen):
-* 5 Eier und 50 g Zucker steif schlagen.
-* In einer anderen Schüssel 250 g Mehl mit 0,5 L Milch verrühren.
-* Die beiden Flüssigkeiten zusammen rühren.
-* 70 g Butter in der Pfanne auslassen.
-* Den Teig in die Pfanne geben und 50 g Rosinen darauf verstreuen.
-* Warten bis der Teig von unten goldig braun wird, dann wenden.
+* Eier und Zucker sehr schaumig schlagen
+* In einer anderen Schüssel Mehl mit Milch verrühren
+* Die beiden Flüssigkeiten zusammen sanft zusammen rühren
+* Butter in der Pfanne auslassen
+* Den Teig in die Pfanne geben und die Rosinen darauf verstreuen.
+* Warten bis der Teig von unten goldig braun wird, dann wenden, dazu in Viertel schneiden
 * Erneut warten bis die andere Seite goldig braun ist, dann schnell zerteilen und auf Teller verteilen.
-* Nach ermessen Puderzucker (ca. 20 g) und Preiselbeeren (ca. 200 g) hinzu geben.
+* Nach ermessen Puderzucker, Apfelmus und Preiselbeeren hinzugeben.
 * Servieren.
 
-Für 40 Mann ist man gut 3 Stunden mit kochen beschäftigt.
+Für 40 Personen ist man ca. 2.5 Stunden mit kochen beschäftigt.

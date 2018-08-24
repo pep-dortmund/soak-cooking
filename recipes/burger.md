@@ -1,12 +1,12 @@
 # Burger
 
 ## Zutaten
-* 6 kg Hack (ergeben 100 Buletten)
+* 6 kg Rinderhack (ergeben 100 Buletten)
 * 100 g Salz
 * 50 g Pfeffer
 * 4 Eier
 * aufgeweichte Semmeln
-* 1 L Öl
+* 1 l Öl
 * 80-100 Burgerbrötchen
 * 2 Auberginen in Bierteigmarinade
 * 3 Gläser Gewürzgurken

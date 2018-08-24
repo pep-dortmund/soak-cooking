@@ -6,7 +6,7 @@ Die Mengenangaben sind für zwei Baguettes oder acht Brötchen
 * 300 g Mehl
 * 5 g Salz
 * 0,2 l warmes Wasser
-* 1 pk. Hefe
+* 42 g frische Hefe (1 Würfel)
 * 15 g Zucker
 
 ## Zubereitung

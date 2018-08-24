@@ -6,11 +6,10 @@
 * 3 kg Tomaten
 * 1 kg Feta
 * 6 Köpfe Lolorosso
-* 0,3 L Balsamico Essig
-* 0,6 L Olivenöl
-* 0,5 Tuben Senf
+
+* 1 l [Vinaigrette](recipes/vinaigrette.md)
 
 ## Zubereitung
 
-*
-*
+* Alles mundgerecht klein schneiden und in Schüsseln servieren
+* Vinaigrette erst kurz vor dem Verzehr hinzugeben und durchmixen

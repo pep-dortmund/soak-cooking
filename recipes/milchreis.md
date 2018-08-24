@@ -1,15 +1,28 @@
-# Milchreis
+# Milchreis mit Apfelmus, heißen Kirschen und Zimt-Zucker
 
 ## Zutaten
-* 5 kg Reis (viel zu viel, 3 kg reichen)
-* 20 L Milch
+
+
+### Milchreis
+* 3 kg Reis
+* Milch nach Packungsangabe (ca. 12 Liter)
 * 0,6 kg Zucker
+
+
+### heiße Kirschen
 * 7 Gläser Kirschen
-* 5 Gläser Apfelmus
-* Vanillezucker
-* Maisstärke
+* 10 Päckchen Vanillezucker
+* 100 g Maisstärke
+
 
 ## Zubereitung
 
-*
-*
+### Milchreis
+* Milch unter ständigem Rühren zum Kochen bringen 
+* Zucker einrieseln lassen
+* Reis hinzugeben und weich kochen
+
+### Heiße Kirschen
+* Kirschen zum Kochen bringen 
+* Vanillezucker hinzugeben
+* Speisestärke in etwas kaltem Wasser verrühren und in die kochenden Kirschen geben
