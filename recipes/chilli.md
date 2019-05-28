@@ -6,6 +6,7 @@
 * 5 kg Tomaten
 * 2 kg Mais
 * 3 kg rote Bohnen
+* 2 Tafeln dunkle Schokolade
 
 Für den Beilagensalat:
 * 4 Köpfe Eisbergsalat
