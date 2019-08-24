@@ -4,7 +4,8 @@
 
 Grundrezept für 2 Strudel
 
-* 1 Eier
+* 1 Eier 
+* 1 Eigelb
 * 280 g
 * 115 g Wasser 
 * 1 El Öl
