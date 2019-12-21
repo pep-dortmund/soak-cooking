@@ -5,6 +5,7 @@
 * 1 kg Mehl
 * 10 Eier
 * 500 g Wasser
+* 10 g Salz
 
 
 ## Zubereitung
